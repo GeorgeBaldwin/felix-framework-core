@@ -4,6 +4,7 @@
   "description": "Core re-usable components for all felix services.",
   "main": "index.js",
   "types": "index.d.ts",
+  "type": "module",
   "scripts": {
     "test": "npm run dev"
   },
